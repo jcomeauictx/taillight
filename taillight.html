@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <link rel="stylesheet" href="style.css">
+ <script type="text/javascript">
+  var bg = 0;
+  function blink() {
+   bg = (bg + 1) % 2
+   document.body.style.background = ["black", "red"][bg];
+  }
+  window.onload = function() {setInterval(blink, 500)};
+ </script>
+</head>
+<body>
+</body>
+</html>

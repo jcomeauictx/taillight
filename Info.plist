@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>ClassicMode</key>
+        <true/>
+        <key>FullScreen</key>
+        <false/>
+        <key>IconIsPrecomposed</key>
+        <true/>
+        <key>IconIsScreenShotBased</key>
+        <false/>
+        <key>Scale</key>
+        <real>1.0</real>
+        <key>Title</key>
+        <string>Taillight</string>
+        <key>UIStatusBarStyle</key>
+        <string>UIStatusBarStyleGray</string>
+        <key>URL</key>
+	<string>file:///var/mobile/rentacoder/jcomeau/taillight/taillight.html</string>
+</dict>
+</plist>
